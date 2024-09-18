@@ -1,0 +1,27 @@
+{
+    // "dart.flutterSdkPath": "/home/tbhambere/flutter",
+    // "dart.useLegacyAnalyzerProtocol": true,
+    // "dart.autoImportCompletions": false,
+    "editor.inlayHints.enabled": "onUnlessPressed",
+    "editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll.eslint","source.fixAll"],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.freezed.dart": true,
+        "**/*.g.dart": true,
+        "**/.gitkeep": true
+    },
+    "hide-files.files": [],
+    "cSpell.words": [
+        "quiple",
+        "riverpod",
+        "screenutil"
+    ],
+    "editor.inlayHints.fontSize": 2,
+    "dart.analysisExcludedFolders": ["**/deprecated/"],
+
+}
